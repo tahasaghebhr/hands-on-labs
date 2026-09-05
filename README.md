@@ -1,20 +1,31 @@
-
 # Hands-on Cybersecurity Labs
 
-Hands-on cybersecurity labs covering penetration testing, network security, threat detection, and defensive analysis.
+A collection of hands-on cybersecurity labs and practical security experiments covering penetration testing, network security, threat detection, digital forensics, and defensive analysis.
 
-## Labs
-
-### Network Security
-
-- [Smurf Attack Simulation & ICMP Traffic Analysis](./smurf-attack-icmp-analysis/)
-
-## Skills & Tools
+## Focus Areas
 
 - Penetration Testing
 - Network Security
-- Traffic Analysis
 - Threat Detection
-- Wireshark
+- Threat Hunting
+- Digital Forensics
+- Incident Response
+- Detection Engineering
+- Security Monitoring
+- System Hardening
+
+## Tools & Technologies
+
 - Linux
 - Kali Linux
+- Wireshark
+- Nmap
+- SIEM
+- Sysmon
+- MITRE ATT&CK
+- Python
+- PowerShell
+
+## About
+
+This repository documents my practical cybersecurity learning journey through hands-on labs, security experiments, traffic analysis, attack simulations, and defensive investigations.
