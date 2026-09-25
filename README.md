@@ -19,6 +19,7 @@ A collection of hands-on cybersecurity labs and practical security experiments c
 - Linux
 - Kali Linux
 - Wireshark
+- Kismet
 - Nmap
 - SIEM
 - Sysmon
